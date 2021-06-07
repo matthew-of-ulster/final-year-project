@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PCA Device Analysis</string>
+
+    <string-array name="measure_array">
+        <item>No Measurement</item>
+        <item>Pulse Rate</item>
+        <item>Respiration Rate</item>
+        <item>Dosage Amount</item>
+        <item>Injection Rate</item>
+        <item>Drug Resevoir</item>
+    </string-array>
+</resources>
